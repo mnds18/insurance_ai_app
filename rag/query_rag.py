@@ -11,7 +11,7 @@ def get_rag_answer(query: str) -> str:
     retriever = db.as_retriever(search_type="similarity", search_kwargs={"k": 4})
 
     llm = ChatOpenAI(model="gpt-4", temperature=0)
-
+    # qa_chain: RetrievalQA = RetrievalQA.from_chain_type(...)
     qa_chain = RetrievalQA.from_chain_type(
         llm=llm,
         chain_type="stuff",

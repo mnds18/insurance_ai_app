@@ -126,6 +126,12 @@ Launch with:
 streamlit run streamlit_app.py
 
 ```
+## 🖼️ Demo Screenshot
+![Demo](demo/demo_1.jpg)
+![Demo](demo/demo_2.jpg)
+![Demo](demo/demo_3.jpg)
+![Demo](demo/demo_4.jpg)
+![Demo](demo/arch.png)
 
 Includes:
 
