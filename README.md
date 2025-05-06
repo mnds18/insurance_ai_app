@@ -201,9 +201,3 @@ Feel free to connect on LinkedIn or message me through GitHub.
 
 👨‍💻 Built with ❤️ by Mrigendranath Debsarma – AI Architect | GenAI Engineer | Insurance Analytics Specialist
 
-
-Let me know if you'd like:
-- a **PDF version** of this `README`
-- a **GitHub `description` + tags**
-- a **short version** for your LinkedIn post or GitHub project blurb
-
