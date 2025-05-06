@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/vs_code/insurance_ai_app/mlruns/444196996105112387/2b2cd9eed23e487d8819d80fb4caacfa/artifacts
+end_time: 1746270148829
+entry_point_name: ''
+experiment_id: '444196996105112387'
+lifecycle_stage: active
+run_id: 2b2cd9eed23e487d8819d80fb4caacfa
+run_name: With_Prophet_Regressors_Holidays
+run_uuid: 2b2cd9eed23e487d8819d80fb4caacfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746270146296
+status: 3
+tags: []
+user_id: mrige

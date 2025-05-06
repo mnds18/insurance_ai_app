@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/vs_code/insurance_ai_app/mlruns/337134601752594245/938b5000fa784076b7880b401eccab14/artifacts
+end_time: 1746267359287
+entry_point_name: ''
+experiment_id: '337134601752594245'
+lifecycle_stage: active
+run_id: 938b5000fa784076b7880b401eccab14
+run_name: GradientBoosting
+run_uuid: 938b5000fa784076b7880b401eccab14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746267345451
+status: 3
+tags: []
+user_id: mrige

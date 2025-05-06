@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/vs_code/insurance_ai_app/mlruns/571710692828328530/afe478f7a3ce481ca01c9d63709f0893/artifacts
+end_time: 1746446600998
+entry_point_name: ''
+experiment_id: '571710692828328530'
+lifecycle_stage: active
+run_id: afe478f7a3ce481ca01c9d63709f0893
+run_name: marvelous-sponge-0
+run_uuid: afe478f7a3ce481ca01c9d63709f0893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746446580736
+status: 3
+tags: []
+user_id: mrige

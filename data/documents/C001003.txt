@@ -1,0 +1,3 @@
+claim_id: C001003
+reported_issue: Broken Glass
+estimated_cost: 2427

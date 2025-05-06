@@ -1,0 +1,3 @@
+claim_id: C001004
+reported_issue: Water Damage
+estimated_cost: 1816

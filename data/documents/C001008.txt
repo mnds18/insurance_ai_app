@@ -1,0 +1,3 @@
+claim_id: C001008
+reported_issue: Scratch
+estimated_cost: 3383

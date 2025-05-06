@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/vs_code/insurance_ai_app/mlruns/619798756765418334/79d144fe577649d19dfc468e7166e3c1/artifacts
+end_time: 1746267313154
+entry_point_name: ''
+experiment_id: '619798756765418334'
+lifecycle_stage: active
+run_id: 79d144fe577649d19dfc468e7166e3c1
+run_name: LogisticRegression
+run_uuid: 79d144fe577649d19dfc468e7166e3c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746267307896
+status: 3
+tags: []
+user_id: mrige

@@ -1,0 +1,3 @@
+claim_id: C001001
+reported_issue: Fire Damage
+estimated_cost: 2842

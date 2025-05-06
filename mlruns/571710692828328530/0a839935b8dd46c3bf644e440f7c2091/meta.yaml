@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/vs_code/insurance_ai_app/mlruns/571710692828328530/0a839935b8dd46c3bf644e440f7c2091/artifacts
+end_time: 1746267067703
+entry_point_name: ''
+experiment_id: '571710692828328530'
+lifecycle_stage: active
+run_id: 0a839935b8dd46c3bf644e440f7c2091
+run_name: persistent-hound-847
+run_uuid: 0a839935b8dd46c3bf644e440f7c2091
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746267061563
+status: 3
+tags: []
+user_id: mrige

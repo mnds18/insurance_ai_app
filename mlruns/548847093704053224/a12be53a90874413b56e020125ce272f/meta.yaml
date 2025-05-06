@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/vs_code/insurance_ai_app/mlruns/548847093704053224/a12be53a90874413b56e020125ce272f/artifacts
+end_time: 1746266086975
+entry_point_name: ''
+experiment_id: '548847093704053224'
+lifecycle_stage: active
+run_id: a12be53a90874413b56e020125ce272f
+run_name: bright-roo-931
+run_uuid: a12be53a90874413b56e020125ce272f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746266086142
+status: 3
+tags: []
+user_id: mrige

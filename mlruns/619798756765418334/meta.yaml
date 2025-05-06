@@ -1,0 +1,6 @@
+artifact_location: file:///D:/vs_code/insurance_ai_app/mlruns/619798756765418334
+creation_time: 1746267294080
+experiment_id: '619798756765418334'
+last_update_time: 1746267294080
+lifecycle_stage: active
+name: Fraud_Classifier_Tuned

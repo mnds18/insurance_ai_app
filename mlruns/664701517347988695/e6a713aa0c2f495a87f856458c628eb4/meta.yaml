@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/vs_code/insurance_ai_app/mlruns/664701517347988695/e6a713aa0c2f495a87f856458c628eb4/artifacts
+end_time: 1746266785687
+entry_point_name: ''
+experiment_id: '664701517347988695'
+lifecycle_stage: active
+run_id: e6a713aa0c2f495a87f856458c628eb4
+run_name: sneaky-hen-234
+run_uuid: e6a713aa0c2f495a87f856458c628eb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746266778602
+status: 3
+tags: []
+user_id: mrige

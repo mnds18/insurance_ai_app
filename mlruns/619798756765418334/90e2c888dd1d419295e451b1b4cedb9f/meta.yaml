@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/vs_code/insurance_ai_app/mlruns/619798756765418334/90e2c888dd1d419295e451b1b4cedb9f/artifacts
+end_time: 1746267307876
+entry_point_name: ''
+experiment_id: '619798756765418334'
+lifecycle_stage: active
+run_id: 90e2c888dd1d419295e451b1b4cedb9f
+run_name: RandomForest
+run_uuid: 90e2c888dd1d419295e451b1b4cedb9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746267294362
+status: 3
+tags: []
+user_id: mrige

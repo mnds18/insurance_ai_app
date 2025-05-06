@@ -1,0 +1,3 @@
+claim_id: C001000
+reported_issue: Dent
+estimated_cost: 3821

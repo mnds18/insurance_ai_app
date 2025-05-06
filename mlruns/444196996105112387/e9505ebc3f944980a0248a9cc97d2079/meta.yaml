@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/vs_code/insurance_ai_app/mlruns/444196996105112387/e9505ebc3f944980a0248a9cc97d2079/artifacts
+end_time: 1746269190414
+entry_point_name: ''
+experiment_id: '444196996105112387'
+lifecycle_stage: active
+run_id: e9505ebc3f944980a0248a9cc97d2079
+run_name: Train_Multivariate_Models
+run_uuid: e9505ebc3f944980a0248a9cc97d2079
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746269189430
+status: 3
+tags: []
+user_id: mrige

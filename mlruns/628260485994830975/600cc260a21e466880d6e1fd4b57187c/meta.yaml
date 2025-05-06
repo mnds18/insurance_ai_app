@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/vs_code/insurance_ai_app/mlruns/628260485994830975/600cc260a21e466880d6e1fd4b57187c/artifacts
+end_time: 1746505753353
+entry_point_name: ''
+experiment_id: '628260485994830975'
+lifecycle_stage: active
+run_id: 600cc260a21e466880d6e1fd4b57187c
+run_name: exultant-jay-575
+run_uuid: 600cc260a21e466880d6e1fd4b57187c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746505649714
+status: 3
+tags: []
+user_id: mrige

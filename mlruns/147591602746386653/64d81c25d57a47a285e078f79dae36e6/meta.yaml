@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/vs_code/insurance_ai_app/mlruns/147591602746386653/64d81c25d57a47a285e078f79dae36e6/artifacts
+end_time: 1746276252815
+entry_point_name: ''
+experiment_id: '147591602746386653'
+lifecycle_stage: active
+run_id: 64d81c25d57a47a285e078f79dae36e6
+run_name: mercurial-toad-565
+run_uuid: 64d81c25d57a47a285e078f79dae36e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746276249623
+status: 3
+tags: []
+user_id: mrige

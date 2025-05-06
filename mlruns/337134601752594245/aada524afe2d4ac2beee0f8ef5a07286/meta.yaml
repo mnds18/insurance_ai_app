@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/vs_code/insurance_ai_app/mlruns/337134601752594245/aada524afe2d4ac2beee0f8ef5a07286/artifacts
+end_time: 1746267364108
+entry_point_name: ''
+experiment_id: '337134601752594245'
+lifecycle_stage: active
+run_id: aada524afe2d4ac2beee0f8ef5a07286
+run_name: LinearRegression
+run_uuid: aada524afe2d4ac2beee0f8ef5a07286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746267359306
+status: 3
+tags: []
+user_id: mrige
