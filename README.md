@@ -131,6 +131,7 @@ streamlit run streamlit_app.py
 ![Demo](demo/demo_2.jpg)
 ![Demo](demo/demo_3.jpg)
 ![Demo](demo/demo_4.jpg)
+![Demo](demo/demo_5.jpg)
 ![Demo](demo/arch.png)
 
 Includes:
